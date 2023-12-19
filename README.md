@@ -1,1 +1,1 @@
-Solutions of COdeforces problems that I've done.
+Solutions of some Codeforces problems that I've done.
